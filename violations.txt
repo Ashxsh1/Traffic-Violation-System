@@ -1,0 +1,4 @@
+License Plate: 3 6453, Fined: 500
+License Plate: IB 6433, Fined: 500
+License Plate: YB 6433, Fined: 500
+License Plate: YB 64353, Fined: 500
